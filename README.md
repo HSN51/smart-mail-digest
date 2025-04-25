@@ -77,5 +77,5 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 ## 👨‍💻 Geliştirici
 
 Hasan Hüseyin GÜMÜŞTEPE
-- LinkedIn: [Hasan Hüseyin GÜMÜŞTEPE](https://www.linkedin.com/in/hasanhuseyingumustepe/)
-- GitHub: [hgumustepe](https://github.com/hgumustepe)
+- LinkedIn: [Hasan Hüseyin GÜMÜŞTEPE](https://www.linkedin.com/in/hasan-huseyin-gumustepe/)
+- GitHub: [hgumustepe](https://github.com/HSN51)
